@@ -1,0 +1,2 @@
+Projeto de Backend usando o nodeJs.
+Projeto inicial apenas com inicio de criação do crud
